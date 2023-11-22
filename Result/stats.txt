@@ -1,0 +1,7 @@
+USEDSEED = 1700657966.9304786
+Bestand: black.png is 97 keer gebruikt. Dit zijn 97 van de 480 fotos. (20.208333333333332%)
+Bestand: green.png is 99 keer gebruikt. Dit zijn 99 van de 480 fotos. (20.625%)
+Bestand: purple.png is 96 keer gebruikt. Dit zijn 96 van de 480 fotos. (20.0%)
+Bestand: red.png is 83 keer gebruikt. Dit zijn 83 van de 480 fotos. (17.291666666666668%)
+Bestand: yellow.png is 105 keer gebruikt. Dit zijn 105 van de 480 fotos. (21.875%)
+De normaalverdeling is 96.0/480(20.0%)
